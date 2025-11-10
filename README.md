@@ -1,9 +1,7 @@
 Hi 👋 My name is Joshua Acklen
 ==============================
 
-* 🌍  Based in Atlanta
-
-### Skills
+### My Skills
 
 
 <p align="left">
@@ -64,7 +62,7 @@ Hi 👋 My name is Joshua Acklen
 </p>
 
 
-### Socials
+### My Socials
 
 <p align="left">
 	<a href="https://discord.com/users/Hexagonal Justice" target="_blank" rel="noreferrer">
@@ -92,8 +90,8 @@ Hi 👋 My name is Joshua Acklen
 	</a>
 </p>
 
-<!-- ### Badges
+### My Badges
 
-<a href="https://github.com/AcklenX" align="left">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcklenX&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages%20%in%20%PUBLIC%20%repos&hide=golangz,django&langs_count=12" alt="Top Languages" />
-</a> -->
+<a href="https://github.com/J-Acklen" align="left">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Acklen&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages%20%in%20%PUBLIC%20%repos&hide=golangz,django&langs_count=12" alt="Top Languages" />
+</a>
