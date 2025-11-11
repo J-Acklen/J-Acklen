@@ -1,8 +1,13 @@
 👋 Hi, my name is Joshua Acklen
 ==============================
 
-### My Skills
+### My Badges
 
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=J-Acklen&theme=gruvbox)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Acklen&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+### My Skills
 
 <p align="left">
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -92,10 +97,4 @@
 		</picture>
 	</a>
 </p>
-
-### My Badges
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Acklen&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=J-Acklen&theme=dracula)](https://git.io/streak-stats)
 
