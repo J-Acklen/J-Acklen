@@ -1,4 +1,4 @@
-Hi 👋 My name is Joshua Acklen
+👋 Hi, my name is Joshua Acklen
 ==============================
 
 ### My Skills
@@ -95,6 +95,7 @@ Hi 👋 My name is Joshua Acklen
 
 ### My Badges
 
-<a href="https://github.com/J-Acklen" align="left">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Acklen&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages%20%in%20%PUBLIC%20%repos&hide=golangz,django&langs_count=12" alt="Top Languages" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Acklen&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=J-Acklen&theme=dracula)](https://git.io/streak-stats)
+
