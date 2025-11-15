@@ -28,26 +28,8 @@ Hello, I'm Joshua Acklen
 	<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
 	</a>
-	<a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" />
-	</a>
-	<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
-	</a>
 	<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-	</a>
-	<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
-	</a>
-	<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" />
-	</a>
-	<a href="https://filebase.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" />
-	</a>
-	<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
 	</a>
 	<a href="https://wordpress.com" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" />
@@ -60,9 +42,6 @@ Hello, I'm Joshua Acklen
 	</a>
 	<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
-	</a>
-	<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" />
 	</a>
 	<a href="https://www.linux.org" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
