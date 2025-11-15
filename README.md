@@ -1,4 +1,4 @@
-👋 Hi, my name is Joshua Acklen
+Hello, I'm Joshua Acklen
 ==============================
 
 ### My Badges
